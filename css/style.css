@@ -115,4 +115,20 @@ body {
     .more-about2 {
         padding-top: 100px !important;
     }
+    /* services page texts */
+    .word1 {
+        margin-top: 70px !important;
+    }
+    .word2 {
+        margin-top: 70px !important;
+    }
+    .word3 {
+        margin-top: 70px !important;
+    }
+    .word4 {
+        margin-top: 120px !important;
+    }
+    .icon {
+        margin-top: 70px !important;
+    }
 }
