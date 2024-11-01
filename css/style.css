@@ -64,6 +64,9 @@ body {
     border: 1px solid #000
 }
 @media (max-width: 900px) {
+    #home {
+        user-select: none !important;
+    }
     .header h1 {
         font-size: 60px !important;
         margin-top: -40px !important;
