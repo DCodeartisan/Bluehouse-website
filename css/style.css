@@ -63,6 +63,12 @@ body {
     background-color: #fff;
     border: 1px solid #000
 }
+/* Projects */
+.containers img {
+    width: 420px;
+    height: 400px
+}
+
 @media (max-width: 900px) {
     #home {
         user-select: none; /* standard */
@@ -130,5 +136,9 @@ body {
     }
     .icon {
         margin-top: 70px !important;
+    }
+    .containers img {
+        width: 100% !important;
+        height: 400px !important;
     }
 }
