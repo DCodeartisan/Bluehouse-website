@@ -1,0 +1,15 @@
+//font
+$font-family-sans-serif: 'Montaga', serif;
+
+// Colors
+$primary: #022b5f;
+$secondary: rgba(229, 58, 58, 0.82);
+$dark: #000;
+
+// navbar
+$navbar-padding-y: 1rem;
+$navbar-dark-color: #fff;
+$navbar-dark-hover-color: $dark;
+
+
+@import'../node_modules/bootstrap/scss/bootstrap.scss'

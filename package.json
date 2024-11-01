@@ -1,0 +1,17 @@
+{
+  "name": "blue-house-construction",
+  "version": "1.0.0",
+  "description": "A website for construction company",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "D_Codeartisan",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.80.5"
+  }
+}
