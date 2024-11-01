@@ -99,4 +99,20 @@ body {
     .border-end {
         border-right: none !important;
     }
+    /* contact page image */
+    .contact img {
+        width: 100% !important;
+        height: 450px !important;
+      }
+    /* about page images */
+    .about-page img {
+        width: 100% !important;
+        height: 300px !important;
+      }
+    .relate {
+        margin-top: -100px !important;
+    }
+    .more-about2 {
+        padding-top: 100px !important;
+    }
 }
